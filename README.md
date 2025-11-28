@@ -1,2 +1,3 @@
-# example-repo
-M03T09 Assignment
+Shoe Inventory Management System
+
+This python program manages a shoe inventory. It retrieves shoe data from the inventory.txt file. It allows users to view all shoes in the inventory, add new shoes, restock low quantity shoes, search shoes by code, and calculate each shoes total value based on quantity and cost. Each shoe is stored in a local list as an object. Shoe details are written to the inventory.txt file any time changes are made.
